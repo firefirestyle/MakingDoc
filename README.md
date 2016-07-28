@@ -7,7 +7,7 @@
 
 
 ## About
-#### Concepy And Issue
+#### Concept And Issue
 火の型が解決すべき問題について書きます。どのような課題を解決するために書かれているか
 
 #### Story Design Pattern
