@@ -6,11 +6,11 @@
 [Index](SUMMARY.md)
 
 
-
-## Concepy And Issue
+## About
+#### Concepy And Issue
 火の型が解決すべき問題について書きます。どのような課題を解決するために書かれているか
 
-## Story Design Pattern
+#### Story Design Pattern
 火の型の物語構成するデザインパターンについて、まとめていきます。
 
 
