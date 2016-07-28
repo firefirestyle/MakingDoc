@@ -16,10 +16,10 @@
 #### [About Program Tutorial](ProgramTutorialConcept.md)
 
 
-#### Concept And Issue
+#### [Concept And Issue](ConceptAndIssue.md)
 火の型が解決すべき問題について書きます。どのような課題を解決するために書かれているか
 
-#### Story Design Pattern
+#### [Story Design Pattern](StoryDesignPattern.md)
 火の型の物語構成するデザインパターンについて、まとめていきます。
 
 
