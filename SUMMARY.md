@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Story](Story.md)
+* [Story Design Pattern](Story.md)
 
