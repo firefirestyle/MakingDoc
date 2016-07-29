@@ -28,7 +28,7 @@
 #### World Concept
 世界観をどうするか。
 
-#### Character
+#### [Character](CharaConcept.md)
 キャラクターをどうするか。
 
 
