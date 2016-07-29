@@ -32,7 +32,7 @@
 キャラクターをどうするか。
 
 
-#### Story
+#### [Story and Chara and World](Story.md)
 
 
 
